@@ -9,8 +9,8 @@ There is a deeply hidden and inssufient attribution - as it is in a place not vi
 
 ## Reported
 
-https://github.com/mapsme/omim/issues/11203 - 2019 VII
-https://github.com/mapsme/omim/issues/11845 - 2019 X
+[https://github.com/mapsme/omim/issues/11203](https://github.com/mapsme/omim/issues/11203) - 2019 VII
+[https://github.com/mapsme/omim/issues/11845](https://github.com/mapsme/omim/issues/11845) - 2019 X
 
 ## Problem reproduction
 
