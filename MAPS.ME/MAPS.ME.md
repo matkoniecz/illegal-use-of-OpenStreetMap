@@ -1,7 +1,7 @@
 # Mapsme
 
 ## Fixing
-Can be easily fixed by replacing misleading attribution "MAPS.ME" in bottom right corner by `© OpenStreetMap, © Booking.com for misplaced hotels` or `map data except hotel ads © OpenStreetMap` or `map data © OpenStreetMap, © Booking.com for misplaced hotels, style © MAPS.ME` or something similar.
+Can be easily fixed by replacing misleading attribution "MAPS.ME" in the bottom right corner by `© OpenStreetMap, © Booking.com for misplaced hotels` or `map data except hotel ads © OpenStreetMap` or `map data © OpenStreetMap, © Booking.com for misplaced hotels, style © MAPS.ME` or something similar.
 
 Missing attribution may be also partially remediated by adding something like "Powered by OpenStreetMap data" at the startup screen.
 
