@@ -14,6 +14,7 @@ There is a deeply hidden and inssufient attribution - as it is in a place not vi
 
 ## Problem reproduction
 
-Install MAPS.ME on an Android phone, run it.
+1. Install MAPS.ME on an Android phone, run it.
+2. Try to find a required attribution.
 
 ![MAPS.ME_application_missing_attribution_misleading_one_present_screenshot_2019-09-09-17-44-05.png](MAPS.ME_application_missing_attribution_misleading_one_present_screenshot_2019-09-09-17-44-05.png)
