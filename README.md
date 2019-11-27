@@ -11,7 +11,7 @@ Currently following large scale plagiarisms are documented:
 
 # Wait, there is attribution
 
-Some behave like hiding attribution in places where no one will see it count as an attribution. This is not true. Note section 4.3 of the [Open Database License](https://www.opendatacommons.org/licenses/odbl/1.0/)
+Some behave like hiding attribution in places where no one will see it count as an attribution. This is not true. Note section 4.3 of the [Open Database License](https://www.opendatacommons.org/licenses/odbl/1.0/) used by OpenStreetMap:
 
 > "include
 > a notice associated with the Produced Work reasonably calculated to
