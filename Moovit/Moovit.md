@@ -24,4 +24,6 @@ On the 27th November I send a next email requesting specifying date when this wi
 1. Install Moovit on an Android phone, run it.
 2. Try to find a required attribution.
 
+## Typical Mooovit interface using OpenStreetMap data
+
 ![Moovit application misssing proper attribution 2019-11-17.png](Moovit application misssing proper attribution 2019-11-17.png)

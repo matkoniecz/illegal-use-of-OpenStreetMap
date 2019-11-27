@@ -17,4 +17,6 @@ There is a deeply hidden and insufficient attribution. It is not in a place ever
 1. Install MAPS.ME on an Android phone, run it.
 2. Try to find a required attribution.
 
+## Typical MAPS.ME interface using OpenStreetMap data
+
 ![MAPS.ME_application_missing_attribution_misleading_one_present_screenshot_2019-09-09-17-44-05.png](MAPS.ME_application_missing_attribution_misleading_one_present_screenshot_2019-09-09-17-44-05.png)
