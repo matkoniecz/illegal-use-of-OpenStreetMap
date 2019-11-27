@@ -3,9 +3,9 @@
 ## Fixing
 Can be easily fixed by replacing misleading attribution "MAPS.ME" in bottom right corner by `© OpenStreetMap, © Booking.com for misplaced hotels` or `map data except hotel ads © OpenStreetMap` or `map data © OpenStreetMap, © Booking.com for misplaced hotels, style © MAPS.ME` or something similar.
 
-Missing attribution may be also partially remediated by adding something like "Powered by OpenStreetMap data" at startup screen.
+Missing attribution may be also partially remediated by adding something like "Powered by OpenStreetMap data" at the startup screen.
 
-There is a deeply hidden and inssufient attribution - as it is in a place not visited by a typical user.
+There is a deeply hidden and insufficient attribution. It is not in a place ever visited by a typical user.
 
 ## Reported
 
