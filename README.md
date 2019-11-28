@@ -9,9 +9,13 @@ Currently following large scale plagiarisms are documented:
 - [MAPS.ME](MAPS.ME/MAPS.ME.md) that is using OpenStreetMap data and attributing it to MAPS.ME. It was reported to this company at 2019-07-10
 - [Moovit](Moovit/Moovit.md) that is not attributing OpenStreetMap in their Android application. They are informed about this problem since at least 2019-09-13
 
+Goal of this project is to document such persistent copyright violation. It is also documenting that it is not accidentm this companies are aware about this and continue with this unethical and illegal practice.
+
 # Wait, there is attribution
 
-Some behave like hiding attribution in places where no one will see it count as an attribution. This is not true. Note section 4.3 of the [Open Database License](https://www.opendatacommons.org/licenses/odbl/1.0/) used by OpenStreetMap:
+Some behave like hiding attribution in places where no one will see it and behave like it would be acceptable. It is not.
+
+Fortunately, this is also illegal. Note section 4.3 of the [Open Database License](https://www.opendatacommons.org/licenses/odbl/1.0/) used by OpenStreetMap:
 
 > "include
 > a notice associated with the Produced Work reasonably calculated to
