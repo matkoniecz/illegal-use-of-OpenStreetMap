@@ -1,4 +1,4 @@
-# Mapsme
+# Moovit
 
 ## Fixing
 Can be easily fixed by placing text crediting OSM in bottom right corner, something like `© OpenStreetMap contributors` or something similar.
