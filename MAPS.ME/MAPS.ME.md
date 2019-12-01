@@ -7,6 +7,8 @@ Missing attribution may be also partially remediated by adding something like "P
 
 There is a deeply hidden and insufficient attribution. It is not in a place ever visited by a typical user.
 
+On some devices attribution text will appear on the map, but only for [less than 2 seconds](attribution_flash.gif).
+
 ## Reported
 
 [https://github.com/mapsme/omim/issues/11203](https://github.com/mapsme/omim/issues/11203) - 2019 VII
