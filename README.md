@@ -44,3 +44,5 @@ Pull requests are even more welcome! Note that by making pull request you agree 
 [Lacking proper attribution](https://wiki.openstreetmap.org/wiki/Lacking_proper_attribution) page at the OSM Wiki has a very similar purpose.
 
 Main difference is that this project focuses on documenting cases of especially eggregious, persistent and large scale copyright violations.
+
+In addition, this project is intended to be self-contained and undestandable by people unfamiliar with OSM, ODBL or licences.
