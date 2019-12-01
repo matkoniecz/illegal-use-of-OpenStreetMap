@@ -7,6 +7,13 @@ Missing attribution may be also partially remediated by adding something like "M
 
 There is a deeply hidden and insufficient attribution. It is not in a place ever visited by a typical user.
 
+Currently encountering it requires
+
+- enabling sidebar
+- scrolling down sidebar
+- selecting "Partners" entry
+- as bonus, it shows CC-BY-SA as a licence and it is not clear what is credited to OpenStreetMap
+
 ## Reported
 
 Reported on the 13th September 2019 (moovitapp.zendesk.com assigned id 343713).
