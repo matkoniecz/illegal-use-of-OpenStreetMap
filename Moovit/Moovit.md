@@ -1,6 +1,6 @@
 # Moovit
 
-This company is using OpenStreetMap data. It is a good news, but unfortunately this company failed to credit authors of this data.
+This company is using OpenStreetMap data for their Android Application. It is a good news, but unfortunately this company failed to credit authors of this data.
 
 Note that OpenStreetMap data is available for free and there are very limited requirements. And Moovit still failed to follow them, [what is not OK](../README.md). Note that it is also illegal, as ODBL licence used by OpenStreetMap requires proper attribution, and requires it to be properly displayed. Hiding one in place where noone will see it is both against the common sense [and the licence](../README.md).
 
@@ -36,5 +36,7 @@ On the 27th November I send a next email requesting specifying date when this wi
 2. Try to find a required attribution.
 
 ## Typical Mooovit interface using OpenStreetMap data
+
+Applies to Android phones, iPhone app is using alternative data provider with a very low data quality
 
 ![Moovit application misssing proper attribution 2019-11-17.png](Moovit application misssing proper attribution 2019-11-17.png)
