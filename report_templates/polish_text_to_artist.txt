@@ -1,0 +1,26 @@
+Dzień dobry!
+
+Bardzo mi miło że znaleźliście ciekawy i atrakcyjny sposób na użycie danych
+OpenStreetMap. Cieszę się że wyniki pracy mojej i innych mapujących są
+wykorzystywane w ciekawy sposób.
+
+Dane te są ogólnie dostępne i można je legalnie wykorzystać przy
+zachowaniu naprawdę małych wymagań. Jednym z wymogów, który i tak jest
+standardem przy wykorzystywaniu cudzej pracy jest podanie źródła
+danych. Wystarczy prosto podać źródło danych - np. 
+"© OpenStreetMap contributors (ODBL)"
+lub
+"© edytujący OpenStreetMap (ODBL)"
+powinno wystarczyć.
+
+Niestety na waszych mapach wykorzystujące dla dróg dane z OpenStreetMap
+tego brak.
+
+Prosiłbym o poprawę tego błędu i podanie wymaganych licencją źródeł
+danych w swoich dziełach wykorzystujące dane z OpenStreetMap.
+
+Zapraszam do przejrzenia informacji o stanie prawnym danych
+OpenStreetMap na https://www.openstreetmap.org/copyright
+
+Z poważaniem,
+ 
