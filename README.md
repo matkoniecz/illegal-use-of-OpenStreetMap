@@ -45,4 +45,4 @@ Pull requests are even more welcome! Note that by making pull request you agree 
 
 Main difference is that this project focuses on documenting cases of especially eggregious, persistent and large scale copyright violations.
 
-In addition, this project is intended to be self-contained and undestandable by people unfamiliar with OSM, ODBL or licences.
+In addition, this project is intended to be self-contained and understandable by people unfamiliar with OSM, ODBL or licences.

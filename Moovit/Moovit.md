@@ -2,7 +2,7 @@
 
 This company is using OpenStreetMap data for their Android Application. It is a good news, but unfortunately this company failed to credit authors of this data.
 
-Note that OpenStreetMap data is available for free and there are very limited requirements. And Moovit still failed to follow them, [what is not OK](../README.md). Note that it is also illegal, as ODBL licence used by OpenStreetMap requires proper attribution, and requires it to be properly displayed. Hiding one in place where noone will see it is both against the common sense [and the licence](../README.md).
+Note that OpenStreetMap data is available for free and there are very limited requirements. And they still failed to follow them, [what is not OK](../README.md). Note that it is also illegal, as ODBL licence used by OpenStreetMap requires proper attribution, and requires it to be properly displayed. Hiding one in place where noone will see it is both against the common sense [and the licence](../README.md).
 
 ## Fixing
 Can be easily fixed by placing text crediting OSM in bottom right corner, something like `© OpenStreetMap contributors` or something similar.
