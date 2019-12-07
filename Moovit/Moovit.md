@@ -37,6 +37,6 @@ On the 27th November I send a next email requesting specifying date when this wi
 
 ## Typical Mooovit interface using OpenStreetMap data
 
-Applies to Android phones, iPhone app is using alternative data provider with a very low data quality
+Applies to Android phones, iPhone app is using alternative data provider with a very low data quality.
 
 ![Moovit application misssing proper attribution 2019-11-17.png](Moovit application misssing proper attribution 2019-11-17.png)
