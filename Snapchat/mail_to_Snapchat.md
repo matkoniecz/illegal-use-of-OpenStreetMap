@@ -7,11 +7,11 @@ ghost linking to a similar map within app.
 This maps are using OpenStreetMap data.
 
 Using OpenStreetMap data for such purposes requires following odbl licence,
-see https://www.openstreetmap.org/copyright for details.
+see [https://www.openstreetmap.org/copyright](https://www.openstreetmap.org/copyright) for details.
 
 Odbl licence requires (among other requirements) a proper attribution.
 
-See https://www.opendatacommons.org/licenses/odbl/1.0/index.html
+See [https://www.opendatacommons.org/licenses/odbl/1.0/index.html](https://www.opendatacommons.org/licenses/odbl/1.0/index.html)
 
 Note that attribution must be clearly visible to anyone using this map.
 
@@ -30,7 +30,7 @@ We require that you use the credit “© OpenStreetMap contributors”.
 You must also make it clear that the data is available under the Open
 Database Licence, and if using our map tiles, that the cartography is
 licenced as CC BY-SA. You may do this by linking to this copyright page."
-at https://www.openstreetmap.org/copyright.
+at [https://www.openstreetmap.org/copyright](https://www.openstreetmap.org/copyright).
 
 I am awaiting your response that such include information what you will do to stop this copyright infringement, when first effects will be visible and when problem will fully fixed.
 
