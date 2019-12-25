@@ -1,8 +1,10 @@
+original mail send to Snapchat mail can be seen at https://github.com/matkoniecz/illegal-use-of-OpenStreetMap/blob/09ca6b5ef9aead85bf6298f83fe8b84ddcfa4ca0/Snapchat/report_to_Mapbox.md , this is a fixed version (ready for resending)
+
 Why Snapchat is using OpenStreetMap data illegally, without a proper
 attribution?
 
 Snapchat has Snapchat maps at for example https://map.snapchat.com with
-ghost linking to a similar map within app.
+a ghost icon linking to a similar map within app, also without a proper attribution.
 
 This maps are using OpenStreetMap data.
 
