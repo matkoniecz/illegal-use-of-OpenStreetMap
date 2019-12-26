@@ -15,7 +15,7 @@ Currently following large scale plagiarisms are documented:
 
 Goal of this project is to document such persistent copyright violation. It is also documenting that it is not accidentm this companies are aware about this and continue with this unethical and illegal practice.
 
-# Wait, there is attribution
+# Wait, there is a hidden attribution
 
 Some behave like hiding attribution in places where no one will see it and behave like it would be acceptable. It is not.
 
