@@ -30,6 +30,8 @@ On the 12th November they claimed that it will be fixed "soon".
 
 On the 27th November I send a next email requesting specifying date when this will be fixed.
 
+On the 7th December reported to OSMF Legal Working Group, report was assigned id 2019120710000072.
+
 ## Problem reproduction
 
 1. Install Moovit on an Android phone, run it.
