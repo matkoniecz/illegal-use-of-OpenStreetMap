@@ -1,4 +1,4 @@
-# Mapsme
+# Mapsme is using OpenStreetMap data illegally
 
 This company is using OpenStreetMap data. It is a good news, but unfortunately this company failed to credit authors of this data.
 

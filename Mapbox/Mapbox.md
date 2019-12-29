@@ -1,4 +1,4 @@
-# Mapbox
+# Mapbox is using OpenStreetMap data illegally
 
 Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on their own website, as there was no proper attribution.
 

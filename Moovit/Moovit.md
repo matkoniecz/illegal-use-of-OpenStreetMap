@@ -1,4 +1,4 @@
-# Moovit
+# Moovit is using OpenStreetMap data illegally
 
 This company is using OpenStreetMap data for their Android Application. It is a good news, but unfortunately this company failed to credit authors of this data.
 
