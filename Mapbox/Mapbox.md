@@ -8,6 +8,8 @@ Note also that even attribution on a large screen is not sufficient, as it is no
 
 Mapbox failed to fix the problem as of 2019-12-29, Mapbox also failed admit that it is violating OSM licence.
 
+Mapbox report using [missing attribution form](https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000308212) was send on 29th December and assigned id 77176 as indicated by an automatic reply.
+
 As reminder section 4.3 of the [Open Database License](https://www.opendatacommons.org/licenses/odbl/1.0/) used by OpenStreetMap:
 
 > "include
