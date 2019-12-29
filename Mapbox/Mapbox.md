@@ -20,7 +20,11 @@ As reminder section 4.3 of the [Open Database License](https://www.opendatacommo
 > part of a Collective Database, and that it is available under this
 > License."
 
-Current attributtion is NOT covering "reasonably calculated to make any Person that (...) view (...)  aware that Content was obtained from the Database (...) and that it is available under this License.
+Attributtion used by Mapbox is NOT covering
+
+> "reasonably calculated to make any Person that (...) view (...)  aware that Content was obtained from the Database (...) and that it is available under this License.
+
+requirement
 
 ![missing_attribution_mapbox_attributed_itself.png](missing_attribution_mapbox_attributed_itself.png)
 
