@@ -30,5 +30,7 @@ Attributtion used by Mapbox is NOT covering
 
 requirement
 
+Note that this is only one of multiple cases of Mapbox illegally using OSM data.
+
 ![missing_attribution_mapbox_attributed_itself.png](missing_attribution_mapbox_attributed_itself.png)
 
