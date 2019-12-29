@@ -6,7 +6,9 @@ Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on the
 
 Note that there is a space for a giant Mapbox logo.
 
-Note also that even attribution on a large screen is not sufficient, as it is not making clear that data used to make this map is from OpenStreetMap (except terrain shading). Current presentation suggests that data is somehow provided or collected by Mapbox. This is misleading as Mapbox contributions are (1) hosting (2) making a map style.
+Note also that even attribution on a large screen is not sufficient, as it is not making clear that data used to make this map is from OpenStreetMap (except terrain shading).
+
+Current presentation suggests that data is somehow provided or collected by Mapbox. This is misleading as Mapbox contributions are limited to (1) hosting (2) making a map style.
 
 Mapbox failed to fix the problem as of 2019-12-29, Mapbox also failed admit that it is violating OSM licence.
 
