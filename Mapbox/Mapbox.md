@@ -1,3 +1,5 @@
+# Mapbox
+
 Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on their own website, as there was no proper attribution.
 
 [One of their example pages](https://api.mapbox.com/styles/v1/mapbox/streets-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA#1.07/-1.4/4.7) has no real attribution when opened on a mobile.
