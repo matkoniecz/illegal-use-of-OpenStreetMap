@@ -24,11 +24,7 @@ As reminder section 4.3 of the [Open Database License](https://www.opendatacommo
 > part of a Collective Database, and that it is available under this
 > License."
 
-Attributtion used by Mapbox is NOT covering
-
-> "reasonably calculated to make any Person that (...) view (...)  aware that Content was obtained from the Database (...) and that it is available under this License.
-
-requirement
+It means that design used by Mapbox is NOT covering requirement to include a proper attribution. Terms of use require it to be reasonably calculated to make any Person that view aware that Content was obtained from the OSM Database and that it is available under ODBL license.
 
 Note that this is only one of multiple cases of Mapbox illegally using OSM data.
 
