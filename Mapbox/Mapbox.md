@@ -28,5 +28,5 @@ It means that design used by Mapbox is NOT covering requirement to include a pro
 
 Note that this is only one of multiple cases of Mapbox illegally using OSM data.
 
-![missing_attribution_mapbox_attributed_itself.png](missing_attribution_mapbox_attributed_itself.png)
+![Mapbox_attributes_itself_2019-12-30.png](Mapbox_attributes_itself_2019-12-30.png)
 
