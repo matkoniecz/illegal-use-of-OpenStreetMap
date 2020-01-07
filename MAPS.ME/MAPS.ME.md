@@ -25,6 +25,6 @@ On some devices attribution text will appear on the map, but only for [less than
 
 ## Typical MAPS.ME interface using OpenStreetMap data
 
-Note that OpenStreetMap is not presented as a source. This is done despite misleading "MAPS.ME" attribution in bottom right corner. It is at best misleading. Note also that MAPS.ME is allowed to use OpenStreetMap data for free (like everybody else) but is required to include a clearly visible attribution (like everybody else).
+Note that OpenStreetMap is not presented as a source. Instead there is a misleading "MAPS.ME" attribution in bottom right corner. MAPS.ME is allowed to use OpenStreetMap data for free (like everybody else) but is required to include a clearly visible attribution (like everybody else).
 
 ![MAPS.ME_application_missing_attribution_misleading_one_present_screenshot_2019-09-09-17-44-05.png](MAPS.ME_application_missing_attribution_misleading_one_present_screenshot_2019-09-09-17-44-05.png)
