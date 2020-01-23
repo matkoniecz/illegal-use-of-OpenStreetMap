@@ -22,15 +22,23 @@ Currently encountering it requires
 
 Reported on the 13th September 2019 (moovitapp.zendesk.com assigned id 343713).
 
+Moovit was reminded about this issue by emailing them on
+
+- 11th November 2019
+- 27th November 2019
+- 6th January 2020
+
+On the 7th December it was reported to OSMF Legal Working Group, report was assigned id 2019120710000072.
+
+## Moovit reaction
+
+Moovit failed to fix issue, failed to specify when it will be fixed. The company also failed to admit that there is actually something to be fixed.
+
+Their Android application continues to use OSM data illegally two months later (checked on 2020-01-23).
+
 On the 3th October Moovit representative replied claiming that they are consulting with their legal team.
 
-On the 11th November I reminded them that they continue to use OpenStreetMap data illegally.
-
-On the 12th November they claimed that it will be fixed "soon".
-
-On the 27th November I send a next email requesting specifying date when this will be fixed.
-
-On the 7th December reported to OSMF Legal Working Group, report was assigned id 2019120710000072.
+On the 12th November they claimed that it will be fixed "soon", what turned out to be untrue. As of 2020-01-23 it was their last activity.
 
 ## Problem reproduction
 
