@@ -30,9 +30,18 @@ Fortunately, this is also illegal. Note section 4.3 of the [Open Database Licens
 > part of a Collective Database, and that it is available under this
 > License."
 
+For case where OSM data is directly used to make a map, viewed by user it can be shortened and simplified to
+
+> include a notice associated with the map reasonably calculated to
+> make any Person that views the map aware that Content was
+> obtained from the Database and that it is available under the
+> ODBL License."
+
 Hiding attribution in settings, at the bottom, in "[About MAPS.ME](MAPS.ME/MAPS.ME.md)" entry is not
 
 > reasonably calculated to make any Person
+
+Similarly, attribution hidden by default behind a button is not reasonably calculated to make any person aware of what is the source of data.
 
 # How can I help?
 

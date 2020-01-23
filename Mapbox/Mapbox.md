@@ -24,9 +24,32 @@ As reminder section 4.3 of the [Open Database License](https://www.opendatacommo
 > part of a Collective Database, and that it is available under this
 > License."
 
-It means that design used by Mapbox is NOT covering requirement to include a proper attribution. Terms of use require it to be reasonably calculated to make any Person that view aware that Content was obtained from the OSM Database and that it is available under ODBL license.
+For case where OSM data is directly used to make a map, viewed by user it can be shortened and simplified to
+
+> include a notice associated with the map reasonably calculated to
+> make any Person that views the map aware that Content was
+> obtained from the Database and that it is available under the
+> ODBL License."
+
+Attribution used by Mapbox is presenting Mapbox as source of the map data. Mention of the real source of map data is hidden by default on mobile devices.
+
+It means that design used by Mapbox is failing to be a proper attribution.
+
+As result Mapbox is using OSM data in violation of the licence.
 
 Note that this is only one of multiple cases of Mapbox illegally using OSM data.
 
-![Mapbox_attributes_itself_2019-12-30.png](Mapbox_attributes_itself_2019-12-30.png)
 
+## Reported
+
+- 2019-01-09 via email to a support
+- 2019-12-29 via [missing attribution form](https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000308212)
+- 2020-01-23 response to their email received two days earlier futher explaining why their attribution is not sufficient to fullfil ODBL.
+
+## Reaction of the company
+
+- 2020-01-21 I received an email claiming that Mapbox is following an ODBL licence. Email was written by a human and responding to my email. I send a reply pointing out their arguments that I consider to be a clear misintepretation of ODBL
+
+## Map without a proper attribution
+
+![Mapbox_attributes_itself_2019-12-30.png](Mapbox_attributes_itself_2019-12-30.png)

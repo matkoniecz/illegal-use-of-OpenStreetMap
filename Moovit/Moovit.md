@@ -30,7 +30,7 @@ Moovit was reminded about this issue by emailing them on
 
 On the 7th December it was reported to OSMF Legal Working Group, report was assigned id 2019120710000072.
 
-## Moovit reaction
+## Reaction of the company
 
 Moovit failed to fix issue, failed to specify when it will be fixed. The company also failed to admit that there is actually something to be fixed.
 
