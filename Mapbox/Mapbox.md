@@ -14,21 +14,15 @@ Note also that small attribution apearing on a larger screen is not sufficient. 
 
 Current presentation misleads users in thinking that Mapbox has some useful geodata exclusive to this company.
 
+Mapbox contributions are limited to (1) hosting copy of this data (2) making a map style (3) some limited support of OSM community.
+
 ## Fixing
 
 This page may be easily fixed by replacing "mapbox" on the bottom line by "Data from OpenStreetMap, available on the [ODBL licence](https://www.openstreetmap.org/copyright)".
 
 Or by any other form of actually noticeable attribution.
 
-## Reported
-
-Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on their own website, as there was no proper attribution.
-
-Current presentation suggests that data is somehow provided or collected by Mapbox. This is misleading as Mapbox contributions are limited to (1) hosting (2) making a map style.
-
-Mapbox failed to fix the problem as of 2019-12-29, Mapbox also failed admit that it is violating OSM licence.
-
-Mapbox report using [missing attribution form](https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000308212) was send on 29th December and assigned id 77176 as indicated by an automatic reply.
+## Legal status
 
 As reminder section 4.3 of the [Open Database License](https://www.opendatacommons.org/licenses/odbl/1.0/) used by OpenStreetMap:
 
@@ -58,13 +52,19 @@ Note that this is only one of multiple cases of Mapbox illegally using OSM data.
 
 ## Reported
 
+Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on their own website, as there was no proper attribution.
+
+Mapbox report using [missing attribution form](https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000308212) was send on 29th December and assigned id 77176 as indicated by an automatic reply.
+
 - 2019-01-09 via email to a support
 - 2019-12-29 via [missing attribution form](https://support.mapbox.com/hc/en-us/requests/new?ticket_form_id=360000308212)
-- 2020-01-23 response to their email received two days earlier futher explaining why their attribution is not sufficient to fullfil ODBL.
+- 2020-01-23 response to their email received two days earlier further explaining why their attribution is not sufficient to fullfil ODBL.
 
 ## Reaction of the company
 
-- 2020-01-21 I received an email claiming that Mapbox is following an ODBL licence. Email was written by a human and responding to my email. I send a reply pointing out their arguments that I consider to be a clear misintepretation of ODBL
+Mapbox failed to fix the problem as of 2020-01-30. Mapbox also failed admit that it is violating OSM licence.
+
+On 2020-01-21 I received an email claiming that Mapbox is following an ODBL licence. Email was written by a human and responding to my email. I send a reply pointing out their arguments that I consider to be a clear misintepretation of ODBL
 
 ## Map without a proper attribution
 
