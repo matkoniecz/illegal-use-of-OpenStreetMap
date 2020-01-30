@@ -6,11 +6,13 @@ Mapbox is using OSM data. It is a good news that such service as hosting OSM dat
 
 Mapbox is not source of data used to display this map. They are obligated to make this clear, but failing to fullfil their obligation.
 
-[One of their example pages](https://api.mapbox.com/styles/v1/mapbox/streets-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA#1.07/-1.4/4.7) has no real attribution when opened on a mobile.
+This specific image is from [one of their example pages](https://api.mapbox.com/styles/v1/mapbox/streets-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA#1.07/-1.4/4.7). It has no real attribution when opened on a mobile or when browser window is resized to a smaller one.
 
-Note that there is a space for a giant Mapbox logo and mentioning their company name twice. But they decided to hide mentioning who actually collected this data.
+Note that there is space for displaying info. There is a big Mapbox logo, comapny name is mentined twice. But they decided to hide mentioning who actually collected this data.
 
-Note also that even attribution on a large screen is not sufficient, as it is not making clear that data used to make this map is from OpenStreetMap (except terrain shading).
+Note also that small attribution apearing on a larger screen is not sufficient. It is not making clear that data used to make this map is from OpenStreetMap (except terrain shading).
+
+Current presentation misleads users in thinking that Mapbox has some useful geodata exclusive to this company.
 
 ## Fixing
 
