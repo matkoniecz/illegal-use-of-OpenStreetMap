@@ -1,12 +1,26 @@
 # Mapbox is using OpenStreetMap data illegally
 
-Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on their own website, as there was no proper attribution.
+Mapbox is using OSM data. It is a good news that such service as hosting OSM data is available. But unfortunately this company failed to properly credit OpenStreetMap mappers.
+
+![Mapbox_attributes_itself_inline_example_2020-01-30.jpg](Mapbox_attributes_itself_inline_example_2020-01-30.jpg)
+
+Mapbox is not source of data used to display this map. They are obligated to make this clear, but failing to fullfil their obligation.
 
 [One of their example pages](https://api.mapbox.com/styles/v1/mapbox/streets-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA#1.07/-1.4/4.7) has no real attribution when opened on a mobile.
 
-Note that there is a space for a giant Mapbox logo.
+Note that there is a space for a giant Mapbox logo and mentioning their company name twice. But they decided to hide mentioning who actually collected this data.
 
 Note also that even attribution on a large screen is not sufficient, as it is not making clear that data used to make this map is from OpenStreetMap (except terrain shading).
+
+## Fixing
+
+This page may be easily fixed by replacing "mapbox" on the bottom line by "Data from OpenStreetMap, available on the [ODBL licence](https://www.openstreetmap.org/copyright)".
+
+Or by any other form of actually noticeable attribution.
+
+## Reported
+
+Mapbox was notified on 2019-01-09 about violating OpenStreetMap copyright on their own website, as there was no proper attribution.
 
 Current presentation suggests that data is somehow provided or collected by Mapbox. This is misleading as Mapbox contributions are limited to (1) hosting (2) making a map style.
 
