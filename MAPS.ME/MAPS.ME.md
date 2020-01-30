@@ -4,6 +4,8 @@ This company is using OpenStreetMap data. It is a good news, but unfortunately t
 
 Note that OpenStreetMap data is available for free and there are very limited requirements. And they still failed to follow them, [what is not OK](../README.md). Note that it is also illegal, as ODBL licence used by OpenStreetMap requires proper attribution, and requires it to be properly displayed. Hiding one in place where noone will see it is both against the common sense [and the licence](../README.md).
 
+![what_maps_me_shows_as_an_attribution_inline.png](what_maps_me_shows_as_an_attribution_inline.png)
+
 ## Fixing
 Can be easily fixed by replacing misleading attribution "MAPS.ME" in the bottom right corner by `© OpenStreetMap, © Booking.com for misplaced hotels` or `map data except hotel ads © OpenStreetMap` or `map data © OpenStreetMap, © Booking.com for misplaced hotels, style © MAPS.ME` or something similar.
 
