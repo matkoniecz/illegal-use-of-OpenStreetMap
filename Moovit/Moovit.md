@@ -28,7 +28,9 @@ Moovit was reminded about this issue by emailing them on
 - 27th November 2019
 - 6th January 2020
 
-On the 7th December it was reported to OSMF Legal Working Group, report was assigned id 2019120710000072.
+On the 2019-12-07 it was reported to OSMF Legal Working Group, report was assigned id 2019120710000072.
+
+On the 2020-03-12 the problem was discussed during OSMF Legal Working Group meeting. The LWG will send a fax message. Hopefully it will be taken more seriously than my emails.
 
 ## Reaction of the company
 
