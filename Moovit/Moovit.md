@@ -42,6 +42,8 @@ On the 3th October Moovit representative replied claiming that they are consulti
 
 On the 12th November they claimed that it will be fixed "soon", what turned out to be untrue. As of 2020-01-23 it was their last activity.
 
+Note that Moovit is using OSM data also for their website and they are attributing OSM there, so they do not appear to be malicious/evil.
+
 ## Problem reproduction
 
 1. Install Moovit on an Android phone, run it.
