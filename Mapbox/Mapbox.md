@@ -8,7 +8,7 @@ Mapbox is not source of data used to display this map. They are obligated to mak
 
 This specific image is from [one of their example pages](https://api.mapbox.com/styles/v1/mapbox/streets-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA#1.07/-1.4/4.7). It has no real attribution when opened on a mobile or when browser window is resized to a smaller one.
 
-Note that there is space for displaying info. There is a big Mapbox logo, comapny name is mentined twice. But they decided to hide mentioning who actually collected this data.
+Note that there is space for displaying info. There is a big Mapbox logo, the company name is mentined twice. But they decided to hide mentioning who actually collected this data.
 
 Note also that small attribution apearing on a larger screen is not sufficient. It is not making clear that data used to make this map is from OpenStreetMap (except terrain shading).
 
