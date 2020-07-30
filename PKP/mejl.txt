@@ -1,0 +1,32 @@
+Dzień dobry!
+
+Wysyłam tego mejla zgodnie z rozmową wykonaną 15 minut temu
+na numer biura prasowego.
+
+Bardzo mi miło że znaleźliście przydatny sposób na użycie danych
+OpenStreetMap. Cieszę się że wyniki pracy mapujących są
+wykorzystywane poprzez wyświetlanie ich w pociągach PKP Intercity,
+na monitorach pokazujących lokalizację pociągu.
+
+Dane te są ogólnie dostępne i można je legalnie wykorzystać przy
+zachowaniu naprawdę małych wymagań. Jednym z wymogów, który i tak jest
+standardem przy wykorzystywaniu cudzej pracy jest podanie źródła
+danych. Wystarczy prosto podać źródło danych - np. 
+"© OpenStreetMap contributors (ODBL)"
+lub
+"© edytujący OpenStreetMap (ODBL)"
+wyraźnie widocznym tekstem powinno wystarczyć.
+
+Niestety na waszych mapach wykorzystujące te dane z OpenStreetMap
+tego brak.
+
+Prosiłbym o poprawę tego błędu i podanie wymaganych licencją źródeł
+danych w swoich dziełach wykorzystujące dane z OpenStreetMap.
+
+Zapraszam do przejrzenia informacji o stanie prawnym danych
+OpenStreetMap na https://www.openstreetmap.org/copyright
+
+W załączniku jest zdjęcie jednej z tych map.
+
+Z poważaniem,
+Mateusz Konieczny
