@@ -1,17 +1,12 @@
-# Moovit is using OpenStreetMap data illegally
+# Moovit is no longer hiding true source of map data :)
 
-This company is using OpenStreetMap data for their Android Application. It is a good news, but unfortunately this company failed to credit authors of this data.
+This company is using OpenStreetMap data for their Android Application. It is a good news, especially as this company now credits authors of this data.
 
-Note that OpenStreetMap data is available for free and there are very limited requirements. And they still failed to follow them, [what is not OK](../README.md). Note that it is also illegal, as ODBL licence used by OpenStreetMap requires proper attribution, and requires it to be properly displayed. Hiding one in place where noone will see it is both against the common sense [and the licence](../README.md).
+# Previous situation
 
-## Fixing
-Can be easily fixed by placing text crediting OSM in bottom right corner, something like `© OpenStreetMap contributors` or something similar.
+There was only a deeply hidden and insufficient attribution. It was in a place never visited by a typical user.
 
-Missing attribution may be also partially remediated by adding something like "Map powered by OpenStreetMap data" at the startup screen.
-
-There is a deeply hidden and insufficient attribution. It is not in a place ever visited by a typical user.
-
-Currently encountering it requires
+Rncountering it required
 
 - enabling sidebar
 - scrolling down sidebar
@@ -32,6 +27,8 @@ On the 2019-12-07 it was reported to OSMF Legal Working Group, report was assign
 
 On the 2020-03-12 the problem was discussed during OSMF Legal Working Group meeting. The LWG will send a fax message. Hopefully it will be taken more seriously than my emails.
 
+It was fixed in September 2020, within year from the initial report.
+
 ## Reaction of the company
 
 Moovit failed to fix issue, failed to specify when it will be fixed. The company also failed to admit that there is actually something to be fixed.
@@ -44,12 +41,11 @@ On the 12th November they claimed that it will be fixed "soon", what turned out 
 
 Note that Moovit is using OSM data also for their website and they are attributing OSM there, so they do not appear to be malicious/evil.
 
-## Problem reproduction
-
-1. Install Moovit on an Android phone, run it.
-2. Try to find a required attribution.
+It was fixed in September 2020, within year from the initial report.
 
 ## Typical Mooovit interface using OpenStreetMap data
+
+This screenshot ilustrates former state, now it is fixed.
 
 Applies to Android phones, iPhone app is using alternative data provider with a very low data quality.
 

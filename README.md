@@ -11,7 +11,6 @@ This project documents companies involved in this kind of plagiarism. The use Op
 Currently following large scale plagiarisms are documented:
 
 - [MAPS.ME](MAPS.ME/MAPS.ME.md) that is using OpenStreetMap data and attributing it to MAPS.ME. It was reported to this company at 2019-07-10
-- [Moovit](Moovit/Moovit.md) that is not attributing OpenStreetMap in their Android application. They are informed about this problem since at least 2019-09-13
 - [Mapbox](Mapbox/Mapbox.md) is not attributing OpenStreetMap on their website. They are informed about this problem since at least 2019-01-09
 
 Goal of this project is to document such persistent copyright violation. It is also documenting that it is not accidentm this companies are aware about this and continue with this unethical and illegal practice.
