@@ -40,7 +40,7 @@ Hiding attribution in settings, at the bottom, in "[About MAPS.ME](MAPS.ME/MAPS.
 
 > reasonably calculated to make any Person
 
-Similarly, attribution hidden by default behind a button is not reasonably calculated to make any person aware of what is the source of data.
+Similarly, attribution hidden by default behind a button is not reasonably calculated to make all people aware of what is the source of data.
 
 # How can I help?
 
