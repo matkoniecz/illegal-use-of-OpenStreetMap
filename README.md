@@ -14,7 +14,7 @@ Currently following large scale plagiarisms are documented:
 - [Mapbox](Mapbox/Mapbox.md) is not attributing OpenStreetMap on their website. They are informed about this problem since at least 2019-01-09
 - [Snapchat](Snapchat/Snapchat.md) failed to  attribute OpenStreetMap in their app. They are informed about this problem since at least 2019-12-23
 
-Goal of this project is to document such persistent copyright violation. It is also documenting that it is not accidentm this companies are aware about this and continue with this unethical and illegal practice.
+Goal of this project is to document such persistent copyright violation. It is also documenting that it is not accident. This entities are aware about this and continue with this unethical and illegal practice.
 
 # Wait, there is a hidden attribution
 
