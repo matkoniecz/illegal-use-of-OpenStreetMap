@@ -13,12 +13,23 @@ Missing attribution may be also partially remediated by adding something like "P
 
 There is a deeply hidden and insufficient attribution. It is not in a place ever visited by a typical user.
 
-On some devices attribution text will appear on the map, but only for [less than 2 seconds](attribution_flash.gif).
+Attribution text will appear on the map, immediately after opening the app but only for [2 seconds and half-hidden](attribution_flash_2021.gif). If you cannot spot it then maybe [this image will help you find it](attribution_flash_2021.png).
+
+
 
 ## Reported
 
 - [https://github.com/mapsme/omim/issues/11203](https://github.com/mapsme/omim/issues/11203) - 2019 VII
 - [https://github.com/mapsme/omim/issues/11845](https://github.com/mapsme/omim/issues/11845) - 2019 X
+
+## Reaction of the company
+
+As of 2021-06-20 MAPS.ME attribution text remains pernamently visible while OpenStreetMap attribution is barely visible, in violation of the OpenStreetMap data license.
+
+On 2019-07-18 they [posted](https://github.com/mapsme/omim/issues/11203#issuecomment-512743377) "Hi, we will add info to the loading screen in one of the upcoming releases. That is a good idea. Thanks!"
+
+This claim turned out to be untrue. Instead, in of updates released in 2021 attribution shown for just two seconds become futher obscured.
+
 
 ## Problem reproduction
 
