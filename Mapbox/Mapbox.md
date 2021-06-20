@@ -12,10 +12,11 @@ Note that there is space for displaying info. There is a big Mapbox logo, the co
 
 Note also that small attribution apearing on a larger screen is not sufficient. It is not making clear that data used to make this map is from OpenStreetMap (except terrain shading).
 
-Current presentation misleads users in thinking that Mapbox has some useful geodata exclusive to this company.
+Current presentation misleads users in thinking that Mapbox is using here some data controlled by this company.
 
-Mapbox contributions are limited to (1) hosting copy of this data (2) making a map style (3) some limited support of OSM community.
+Mapbox here hosts OpenStreetMap data and applied map style to it.
 
+Mapbox contributed to growth of OpenStreetMap but it does not entitle them to start hiding attribution.
 ## Fixing
 
 This page may be easily fixed by replacing "mapbox" on the bottom line by "Data from OpenStreetMap, available on the [ODBL licence](https://www.openstreetmap.org/copyright)".
