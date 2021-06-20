@@ -63,9 +63,11 @@ Mapbox report using [missing attribution form](https://support.mapbox.com/hc/en-
 
 ## Reaction of the company
 
-Mapbox failed to fix the problem as of 2020-01-30. Mapbox also failed admit that it is violating OSM licence.
+Mapbox failed to fix the problem as of 2021-06-20. Mapbox also failed admit that it is violating OSM licence.
 
-On 2020-01-21 I received an email claiming that Mapbox is following an ODBL licence. Email was written by a human and responding to my email. I send a reply pointing out their arguments that I consider to be a clear misintepretation of ODBL
+On 2020-01-21 I received an email claiming that Mapbox is following an ODBL licence. Email was written by a human and responding to my email. I send a reply pointing out their arguments that I consider to be a clear misintepretation of ODBL.
+
+I received no reply to that email.
 
 ## Map without a proper attribution
 
