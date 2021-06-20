@@ -11,6 +11,10 @@ Every page should have
 
 Pull requests can be opened early, but I will merge ones with delay if recent attempt to contact is really rece, to give them time to fix (at least 7 days).
 
+# Embedding videos
+
+Sometimes video is much better at demonstrating something. In such case include bpth original screen capture and gif for linking/embedding.
+
 For generating gif files from mp4 - see
 
 ```
