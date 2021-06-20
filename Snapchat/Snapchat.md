@@ -20,6 +20,6 @@ On 2021-02-22 I [reminded](report_to_mapbox_2021.md) Mapbox that they claimed to
 
 ## Reaction of the company
 
-Snapchat failed to react.
+Snapchat failed to react, as of 2021-06-20 they continue to use OpenStreetMap data without required atttribution.
 
 Mapbox replied on 2020-01-13 that Mapbox reminded Snapchat about attribution requirements and that they gave Snapchat deadline. Email contained no specific info about the deadline.
