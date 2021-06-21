@@ -2,9 +2,13 @@
 
 OpenStreetMap is a project of mappers who together create map of the world. Created dataset can be used by anyone, for free, for any purpose. There are minimal requirements. Proper attribution is a fundamental one and very easy to fulfill - just mention who provided data that you use.
 
-# Illegal OpenStreetMap use
+OpenStreetMap data is used for many purposes, by individuals, in hobby projects, by scientists, governments and megacorporations.
 
-Unfortunately in many cases users of this great dataset are not attributing OpenStreetMap at all.
+This data was collected by thousands of people with intention of being used and  OpenStreetMap mappers are happy to see that it is happening.
+
+# Large scale plagiarism
+
+Unfortunately in many cases users of this great dataset are not attributing OpenStreetMap at all. They are using OpenStreetMap data illegally, despite that mentioning source of data is not hard. Hiding real source of data is both unethical and illegal.
 
 This project documents companies involved in this kind of plagiarism. The use OpenStreetMap data on a large scale and try to hide this. Smaller entities especially blatant in their plagiarism also may be listed.
 
